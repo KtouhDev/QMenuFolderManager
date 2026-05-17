@@ -1,0 +1,2 @@
+# QMenuFolderManager
+Soon
