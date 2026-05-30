@@ -1,0 +1,13 @@
+{
+  "title": "Q-Menu Folder Manager - GFM",
+  "type": "tool",
+  "tags": [
+    "build"
+  ],
+  "ignore": [
+    "README.md",
+    "*.psd",
+    "*.vcproj",
+    "*.svn*"
+  ]
+}
